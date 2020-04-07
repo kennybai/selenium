@@ -1,0 +1,3 @@
+Account:wangyufeng012
+PassWord:Ww1575368.
+PluginPath:http://idac.cic.cn/claim/com.cic.claim.web.portal.workbench.WorkSpace.d?workSpaceInfo=0
